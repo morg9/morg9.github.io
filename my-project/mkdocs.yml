@@ -1,0 +1,7 @@
+site_name: AquaLife
+site_url: https://example.com/
+nav:
+    - Explore: explore.md
+theme:
+  name: material
+  locale: en
